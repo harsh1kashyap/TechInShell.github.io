@@ -1568,8 +1568,8 @@ body.light_blue #full_slider.full_slider_inner {
 	-------------------------------------------------------------------*/
 
 .padding_layout_1 {
-  padding-top: 120px;
-  padding-bottom: 50px;
+  padding-top: 50px;
+  padding-bottom: 30px;
 }
 
 .padding_layout_2 {
@@ -3573,7 +3573,7 @@ footer ul.social_icons {
 
 .contact_us_section {
   padding: 40px 50px;
-  margin-top: -75px;
+  /* margin-top: -75px; */
   float: left;
   width: 100%;
 }
@@ -3617,15 +3617,11 @@ footer ul.social_icons {
   border: solid #eee 5px;
 }
 
-.map_section {
-  float: right;
+.qr_section {
+  /* float: right; */
   width: 35%;
-}
-
-#map {
-  height: 100%;
-  min-height: 540px;
-  z-index: 1;
+  padding-left: 150px;
+  padding-top: 150px;
 }
 
 .inner_banner_section {
@@ -4709,13 +4705,12 @@ footer ul.social_icons {
   float: left;
   height: auto;
   left: 0;
-  padding: 14px 0 13px;
-  padding-left: 0;
   margin-top: 70px;
 }
 
 .cleaning .cprt p {
   color: #fff;
+  /* float: left; */
   margin: 0;
   font-size: 14px;
 }

@@ -545,8 +545,8 @@
 		margin-bottom: 20px;
 	}
 	.padding_layout_1 {
-		padding-top: 90px;
-		padding-bottom: 60px;
+		padding-top: 40px;
+		padding-bottom: 30px;
 	}
 	.main_heading {
 		margin-bottom: 20px;
@@ -845,8 +845,8 @@
 	}
 	/**== layout ==**/
 	.padding_layout_1 {
-		padding-top: 75px;
-		padding-bottom: 60px;
+		padding-top: 35px;
+		padding-bottom: 20px;
 	}
 	.testmonial_section {
         padding-bottom: 135px !important;
@@ -1283,7 +1283,7 @@
     left: 0;
     overflow: hidden;
     margin-right: 15px;
-    margin-top: 25px;
+    margin-top: 10px;
    }
    .contact_us_section {
       padding: 40px 50px;
@@ -1415,16 +1415,22 @@
 }
 
 .cprt p {
-
+	width: 100%;
     line-height: 18px;
 
 }
    /** footer **/
+
+   .qr_section
+   {
+	   padding-left: 100px;
+	   padding-top: 75px;
+   }
    
-   .map_section {
+   /* .map_section {
     float: right;
     width: 100%;
-    }
+    } */
 	
 	.footer_blog {
     float: left;
@@ -1433,7 +1439,7 @@
    }
    
    .cprt {
-        padding-left: 0px;
+        padding-left: 10px;
     }
    
 }
