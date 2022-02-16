@@ -413,7 +413,7 @@
 	}
 	.logo {
 		float: left;
-		margin: 15px 0;
+		margin: 0;
 		position: relative;
 		left: 0;
 		width: 100%;
@@ -789,7 +789,7 @@
 	}
 	.logo {
 		float: left;
-		margin: 20px 0 20px;
+		margin: 8px 0 20px;
 		position: relative;
 		left: 0;
 		width: 100%;

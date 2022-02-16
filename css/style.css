@@ -943,9 +943,9 @@ header .right_bt .btn {
 
 .logo {
   float: left;
-  margin: 19px 0 19px;
+  margin: 0 0 19px;
   position: relative;
-  left: 0;
+  left: -100px;
 }
 
 .logo img {
@@ -1047,7 +1047,7 @@ header .right_bt .btn {
 }
 
 #navbar_menu {
-  margin: 37px 0 0 0;
+  margin: 19px 0 0 0;
   float: left;
 }
 
@@ -1161,12 +1161,14 @@ header .right_bt .btn {
 
 .search_icon {
   float: right;
-  margin: 48px 0px 0 15px;
+  margin: 32px 0px 0 15px;
+  margin-right: -100px;
 }
 
 .search_icon ul {
+  float: right;
   list-style: none;
-  float: left;
+  /* float: left; */
   margin: 0;
   padding: 0;
 }
