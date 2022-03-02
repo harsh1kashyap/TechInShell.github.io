@@ -3381,6 +3381,16 @@ footer h2::after {
   top: 7px;
 }
 
+adress_cont h4::after {
+  width: 30px;
+  height: 4px;
+  content: "";
+  margin: 0;
+  display: block;
+  position: relative;
+  top: 7px;
+}
+
 footer p {
   color: #666;
   font-size: 14px;
