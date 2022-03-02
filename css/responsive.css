@@ -165,10 +165,10 @@
 
 /**== menu css ==**/
 
-@media (max-width: 991px) {
+@media (max-width: 1024px) {
 	#navbar_menu>ul>li>a {
-		padding: 16px 14px;
-		padding-right: 14px;
+		padding: 10px 8px;
+		padding-right: 10px;
 	}
 	.menu_side {
 		margin: 0;
@@ -377,7 +377,7 @@
 	/**== search_bar ==**/
 	.search_icon {
 		float: left;
-		margin: 0 25px 0 0;
+		margin: 0;
 		position: absolute;
 		right: 0;
 		top: -67px;
@@ -388,7 +388,7 @@
 	}
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 1024px) {
 	img {
 		max-width: 100%;
 	}
@@ -413,7 +413,7 @@
 	}
 	.logo {
 		float: left;
-		margin: 0;
+		margin-left: -20px;
 		position: relative;
 		left: 0;
 		width: 100%;
@@ -424,7 +424,7 @@
 		width: 100%;
 	}
 	header .icon_bottom {
-		margin-right: 10px;
+		/* margin-right: 10px; */
 	}
 	header .header_bottom .info_cont h4 {
 		font-size: 12px;
@@ -438,7 +438,7 @@
     }
 	/**== search bar == **/
 	#search_bar .search-global__input {
-		padding: 0 70px 23px 0 !important;
+		/* padding: 0 70px 23px 0 !important; */
 		font-size: 50px;
 	}
 	/**== menu == **/
