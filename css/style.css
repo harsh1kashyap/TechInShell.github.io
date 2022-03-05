@@ -945,7 +945,7 @@ header .right_bt .btn {
   float: left;
   margin: 0 0 19px;
   position: relative;
-  left: -100px;
+  left: -30px;
 }
 
 .logo img {
@@ -3353,7 +3353,7 @@ footer h4 {
 
 .footer_blog {
   float: left;
-  width: 65%;
+  width: 100%;
   padding: 75px 75px 100px 75px;
 }
 
