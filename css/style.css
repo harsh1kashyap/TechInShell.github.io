@@ -3490,11 +3490,14 @@ footer ul.social_icons {
 	-------------------------------------------------------------------*/
 
 .service_blog_inner .icon img {
+  /* justify-content: center; */
+  align-items: center;
   width: 65px;
 }
 
 .service_blog_inner h4.service-heading {
   margin: 25px 0 15px 0;
+  justify-content: center;
 }
 
 .service_blog_inner {
